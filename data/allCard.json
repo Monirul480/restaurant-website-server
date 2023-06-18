@@ -1,0 +1,213 @@
+[
+    {
+      "id": 1,
+      "chef_name": "Martin Yan",
+      "chef_picture": "https://i.ibb.co/X8jxYCB/b8ac6f43d06319c6528922.jpg",
+      "likes": 10,
+      "short_bio": "Martin Yan is a Chinese-American chef, restaurateur, and food writer. He has hosted his award-winning cooking show Yan Can Cook since 1982.",
+      "number_of_recipes": 220,
+      "years_of_experience": 8,
+      "recipes": [
+        {
+          "id": 1,
+          "recipeName": "Dumplings",
+          "ingredients": ["beef sirloin", "oyster sauce", "vegetable oil", "garlic", "onion", "bell peppers"],
+          "cookingMethod": "Stir-fry",
+          "rating": 4.4,
+          "imgUrl": "https://i.ibb.co/55xjMXT/1.jpg"
+        },
+        {
+          "id": 2,
+          "recipeName": "Ma Po Tofu",
+          "ingredients": ["chicken", "flour", "cornstarch", "salt", "pepper", "oil"],
+          "cookingMethod": "Fry",
+          "rating": 4.1,
+          "imgUrl": "https://i.ibb.co/LztN7T3/2.jpg"
+        },
+        {
+          "id": 3,
+          "recipeName": "Shrimp Fried Rice",
+          "ingredients": ["rice", "shrimp", "vegetable oil", "onion", "peas", "carrots", "eggs", "soy sauce"],
+          "cookingMethod": "Stir-fry",
+          "rating": 4.6,
+          "imgUrl": "https://i.ibb.co/mNYwFjg/18.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chef_name": "Ken Hom",
+      "chef_picture": "https://i.ibb.co/QvtPnZj/louis-hansel-v3-Ol-BE6-fh-U-unsplash.jpg",
+      "likes": 200,
+      "short_bio": "Martin Yan is a Chinese-American chef, restaurateur, and food writer. He has hosted his award-winning cooking show Yan Can Cook since 1982.",
+      "number_of_recipes": 50,
+      "years_of_experience": 5,
+      "recipes": [
+        {
+          "id": 1,
+          "recipeName": "Peking Duck",
+          "ingredients": ["beef sirloin", "oyster sauce", "vegetable oil", "garlic", "onion", "bell peppers"],
+          "cookingMethod": "Stir-fry",
+          "rating": 4.4,
+          "imgUrl": "https://i.ibb.co/h9z5k2T/4.jpg"
+        },
+        {
+          "id": 2,
+          "recipeName": "Spring Rolls",
+          "ingredients": ["chicken", "flour", "cornstarch", "salt", "pepper", "oil"],
+          "cookingMethod": "Fry",
+          "rating": 4.1,
+          "imgUrl": "https://i.ibb.co/FsL6mwD/5.jpg"
+        },
+        {
+          "id": 3,
+          "recipeName": "Chow Mein",
+          "ingredients": ["rice", "shrimp", "vegetable oil", "onion", "peas", "carrots", "eggs", "soy sauce"],
+          "cookingMethod": "Stir-fry",
+          "rating": 4.6,
+          "imgUrl": "https://i.ibb.co/dbKxC4W/6.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chef_name": "Yan-Kit So",
+      "chef_picture": "https://i.ibb.co/QPQSFsW/Andrew-Wong.jpg",
+      "likes": 325,
+      "short_bio": "Martin Yan is a Chinese-American chef, restaurateur, and food writer. He has hosted his award-winning cooking show Yan Can Cook since 1982.",
+      "number_of_recipes": 230,
+      "years_of_experience": 24,
+      "recipes": [
+        {
+          "id": 1,
+          "recipeName": "Beef and Broccoli",
+          "ingredients": ["beef sirloin", "oyster sauce", "vegetable oil", "garlic", "onion", "bell peppers"],
+          "cookingMethod": "Stir-fry",
+          "rating": 4.4,
+          "imgUrl": "https://i.ibb.co/pyTnvgH/10.jpg"
+        },
+        {
+          "id": 2,
+          "recipeName": "Fried Rice",
+          "ingredients": ["chicken", "flour", "cornstarch", "salt", "pepper", "oil"],
+          "cookingMethod": "Fry",
+          "rating": 4.1,
+          "imgUrl": "https://i.ibb.co/9pTrsDb/11.jpg"
+        },
+        {
+          "id": 3,
+          "recipeName": "Hot Pot",
+          "ingredients": ["rice", "shrimp", "vegetable oil", "onion", "peas", "carrots", "eggs", "soy sauce"],
+          "cookingMethod": "Stir-fry",
+          "rating": 4.6,
+          "imgUrl": "https://i.ibb.co/tm2PkTG/12.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chef_name": "Da Dong",
+      "chef_picture": "https://i.ibb.co/Y8h1HZp/alchetron.jpg",
+      "likes": 15000,
+      "short_bio": "Martin Yan is a Chinese-American chef, restaurateur, and food writer. He has hosted his award-winning cooking show Yan Can Cook since 1982.",
+      "number_of_recipes": 500,
+      "years_of_experience": 40,
+      "recipes": [
+        {
+          "id": 1,
+          "recipeName": "Wonton Soup",
+          "ingredients": ["beef sirloin", "oyster sauce", "vegetable oil", "garlic", "onion", "bell peppers"],
+          "cookingMethod": "Stir-fry",
+          "rating": 4.4,
+          "imgUrl": "https://i.ibb.co/tzmGWRH/14.jpg"
+        },
+        {
+          "id": 2,
+          "recipeName": "General Tso's Chicken",
+          "ingredients": ["chicken", "flour", "cornstarch", "salt", "pepper", "oil"],
+          "cookingMethod": "Fry",
+          "rating": 4.1,
+          "imgUrl": "https://i.ibb.co/BCSyHsS/16.jpg"
+        },
+        {
+          "id": 3,
+          "recipeName": "Egg Foo Young",
+          "ingredients": ["rice", "shrimp", "vegetable oil", "onion", "peas", "carrots", "eggs", "soy sauce"],
+          "cookingMethod": "Stir-fry",
+          "rating": 4.6,
+          "imgUrl": "https://i.ibb.co/tm2PkTG/12.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "chef_name": "Ming Tsai",
+      "chef_picture": "https://i.ibb.co/BBqXDmC/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg",
+      "likes": 180,
+      "short_bio": "Martin Yan is a Chinese-American chef, restaurateur, and food writer. He has hosted his award-winning cooking show Yan Can Cook since 1982.",
+      "number_of_recipes": 300,
+      "years_of_experience": 20,
+      "recipes": [
+        {
+          "id": 1,
+          "recipeName": "Dan Dan Noodles",
+          "ingredients": ["beef sirloin", "oyster sauce", "vegetable oil", "garlic", "onion", "bell peppers"],
+          "cookingMethod": "Stir-fry",
+          "rating": 4.4,
+          "imgUrl": "https://i.ibb.co/hgDCBmX/13.jpg"
+        },
+        {
+          "id": 2,
+          "recipeName": "Mapo Eggplant",
+          "ingredients": ["chicken", "flour", "cornstarch", "salt", "pepper", "oil"],
+          "cookingMethod": "Fry",
+          "rating": 4.1,
+          "imgUrl": "https://i.ibb.co/tzmGWRH/14.jpg"
+        },
+        {
+          "id": 3,
+          "recipeName": "Mongolian Beef",
+          "ingredients": ["rice", "shrimp", "vegetable oil", "onion", "peas", "carrots", "eggs", "soy sauce"],
+          "cookingMethod": "Stir-fry",
+          "rating": 4.6,
+          "imgUrl": "https://i.ibb.co/6mKwYg0/15.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "chef_name": "Andrew Wong",
+      "chef_picture": "https://i.ibb.co/TKcwc59/Martin-Yan.jpghttps://i.ibb.co/TKcwc59/Martin-Yan.jpg",
+      "likes": 1500,
+      "short_bio": "Martin Yan is a Chinese-American chef, restaurateur, and food writer. He has hosted his award-winning cooking show Yan Can Cook since 1982.",
+      "number_of_recipes": 550,
+      "years_of_experience": 30,
+      "recipes": [
+        {
+          "id": 1,
+          "recipeName": "Szechuan Shrimp",
+          "ingredients": ["beef sirloin", "oyster sauce", "vegetable oil", "garlic", "onion", "bell peppers"],
+          "cookingMethod": "Stir-fry",
+          "rating": 4.4,
+          "imgUrl": "https://i.ibb.co/BCSyHsS/16.jpg"
+        },
+        {
+          "id": 2,
+          "recipeName": "Char Siu (Barbecued Pork)",
+          "ingredients": ["chicken", "flour", "cornstarch", "salt", "pepper", "oil"],
+          "cookingMethod": "Fry",
+          "rating": 4.1,
+          "imgUrl": "https://i.ibb.co/9HChWm1/17.jpg"
+        },
+        {
+          "id": 3,
+          "recipeName": "Steamed Fish",
+          "ingredients": ["rice", "shrimp", "vegetable oil", "onion", "peas", "carrots", "eggs", "soy sauce"],
+          "cookingMethod": "Stir-fry",
+          "rating": 4.6,
+          "imgUrl": "https://i.ibb.co/S7xKFfB/19.jpg"
+        }
+      ]
+    }
+    
+  ]

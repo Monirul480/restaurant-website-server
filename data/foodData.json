@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "recipeName": "Dumplings",
+        "ingredients": ["beef sirloin", "oyster sauce", "vegetable oil", "garlic", "onion", "bell peppers"],
+        "cookingMethod": "Stir-fry",
+        "rating": 4.4,
+        "imgUrl": "https://i.ibb.co/55xjMXT/1.jpg",
+        "price": 52
+      },
+      {
+        "id": 2,
+        "recipeName": "Ma Po Tofu",
+        "ingredients": ["chicken", "flour", "cornstarch", "salt", "pepper", "oil"],
+        "cookingMethod": "Fry",
+        "rating": 4.1,
+        "imgUrl": "https://i.ibb.co/LztN7T3/2.jpg",
+        "price": 521
+      },
+      {
+        "id": 3,
+        "recipeName": "Shrimp Fried Rice",
+        "ingredients": ["rice", "shrimp", "vegetable oil", "onion", "peas", "carrots", "eggs", "soy sauce"],
+        "cookingMethod": "Stir-fry",
+        "rating": 4.6,
+        "imgUrl": "https://i.ibb.co/mNYwFjg/18.jpg",
+        "price": 526
+      },
+      {
+        "id": 4,
+        "recipeName": "Peking Duck",
+        "ingredients": ["beef sirloin", "oyster sauce", "vegetable oil", "garlic", "onion", "bell peppers"],
+        "cookingMethod": "Stir-fry",
+        "rating": 4.4,
+        "imgUrl": "https://i.ibb.co/h9z5k2T/4.jpg",
+        "price": 42
+      },
+      {
+        "id": 5,
+        "recipeName": "Spring Rolls",
+        "ingredients": ["chicken", "flour", "cornstarch", "salt", "pepper", "oil"],
+        "cookingMethod": "Fry",
+        "rating": 4.1,
+        "imgUrl": "https://i.ibb.co/FsL6mwD/5.jpg",
+        "price": 74
+      },
+      {
+        "id": 6,
+        "recipeName": "Chow Mein",
+        "ingredients": ["rice", "shrimp", "vegetable oil", "onion", "peas", "carrots", "eggs", "soy sauce"],
+        "cookingMethod": "Stir-fry",
+        "rating": 4.6,
+        "imgUrl": "https://i.ibb.co/dbKxC4W/6.jpg",
+        "price": 541
+      },
+      {
+        "id": 7,
+        "recipeName": "Beef and Broccoli",
+        "ingredients": ["beef sirloin", "oyster sauce", "vegetable oil", "garlic", "onion", "bell peppers"],
+        "cookingMethod": "Stir-fry",
+        "rating": 4.4,
+        "imgUrl": "https://i.ibb.co/pyTnvgH/10.jpg",
+        "price": 584
+      },
+      {
+        "id": 8,
+        "recipeName": "Fried Rice",
+        "ingredients": ["chicken", "flour", "cornstarch", "salt", "pepper", "oil"],
+        "cookingMethod": "Fry",
+        "rating": 4.1,
+        "imgUrl": "https://i.ibb.co/9pTrsDb/11.jpg",
+        "price": 54
+      },
+      {
+        "id": 9,
+        "recipeName": "Hot Pot",
+        "ingredients": ["rice", "shrimp", "vegetable oil", "onion", "peas", "carrots", "eggs", "soy sauce"],
+        "cookingMethod": "Stir-fry",
+        "rating": 4.6,
+        "imgUrl": "https://i.ibb.co/tm2PkTG/12.jpg",
+        "price": 52
+      }
+]
